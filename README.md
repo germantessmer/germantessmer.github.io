@@ -19,6 +19,7 @@ Personal academic website for Germán A. Tessmer, built with [Quarto](https://qu
 | `index.qmd` | About / bio |
 | `research.qmd` | Working papers, data, publications |
 | `eph.qmd` | EPH Ecosystem — all EPH-related work (research, documentation, datasets, reports) |
+| `scripts/` | Public R scripts (`bridge_eph.R`, `separa_eph.R`), copied from `C:\oes\eph_full\dataverse\scripts_publicos` |
 | `teaching.qmd` | Teaching history |
 | `cv.qmd` | Curriculum vitae |
 | `styles.css` | Custom styles |
@@ -30,6 +31,8 @@ Personal academic website for Germán A. Tessmer, built with [Quarto](https://qu
 Logo palette: dark blue `#063F5D` · steel gray `#5C7381` · background gray `#F2F2EF`.
 
 Text hierarchy in `styles.css` (no pure black): headings `#193644` · bold text `#5B6274` · body `#2c2c2c`.
+
+The **EPH Ecosystem** navbar item sits last (right of CV) and is highlighted with inverted colors (dark blue background `#063F5D`, light text `#F2F2EF`) via `styles.css`.
 
 ## SEO & Analytics
 
