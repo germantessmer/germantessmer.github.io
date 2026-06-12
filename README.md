@@ -18,11 +18,18 @@ Personal academic website for Germán A. Tessmer, built with [Quarto](https://qu
 |------|---------|
 | `index.qmd` | About / bio |
 | `research.qmd` | Working papers, data, publications |
+| `eph.qmd` | EPH Ecosystem — all EPH-related work (research, documentation, datasets, reports) |
 | `teaching.qmd` | Teaching history |
 | `cv.qmd` | Curriculum vitae |
 | `styles.css` | Custom styles |
 | `profile.jpg` | Profile photo |
 | `robots.txt` | Search engine crawl rules + sitemap pointer |
+
+## Design
+
+Logo palette: dark blue `#063F5D` · steel gray `#5C7381` · background gray `#F2F2EF`.
+
+Text hierarchy in `styles.css` (no pure black): headings `#193644` · bold text `#5B6274` · body `#2c2c2c`.
 
 ## SEO & Analytics
 
