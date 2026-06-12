@@ -17,12 +17,12 @@ hr {
 
 /* ── Jerarquía de color en textos ──────────────────── */
 :root {
-  --bs-heading-color: #0e1b23;
+  --bs-heading-color: #193644;
   --bs-body-color: #2c2c2c;
 }
 
 h1, h2 {
-  color: #0e1b23 !important;
+  color: #193644 !important;
 }
 
 h3 {

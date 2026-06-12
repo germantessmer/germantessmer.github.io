@@ -15,7 +15,7 @@ description: "Curriculum Vitae of Germán A. Tessmer. Economist, Director of Obs
 
 ## Education
 
-- **PhD in Economics** *(thesis proposal submitted, 2026)* · Universidad Nacional de Rosario
+- **PhD Candidate in Economics** · Universidad Nacional de Rosario *(thesis proposal submitted, 2026)*
 - **MA in Economics** · Universidad de San Andrés *(2012–2013)*
 - **Management Development Program** · Universidad Torcuato Di Tella *(2016)*
 - **University Teaching Certificate** · Universidad Abierta Interamericana *(2014–2015)*
@@ -52,7 +52,7 @@ description: "Curriculum Vitae of Germán A. Tessmer. Economist, Director of Obs
 
 ### Working Papers
 
-- **From Breaks to Bridges: Harmonizing the New and Old Permanent Household Survey for Consistent Labor Market Series** *(with Bárbara Boggiano)* [→ SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6597399){target="_blank"}
+- **From Breaks to Bridges: An Architecture for Survey Redesigns That Expand Conceptual Scope** *(with Bárbara Boggiano)* [→ SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6597399){target="_blank"}
 
 ### Data
 
