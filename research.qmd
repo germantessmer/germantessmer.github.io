@@ -14,6 +14,8 @@ description: "Working papers, publications, and datasets by Germán A. Tessmer. 
 - **EPH – Observatorio. Encuesta Permanente de Hogares de Argentina. Explicada, etiquetada y ampliada** *(with Santiago Moleres & Laureano E. Hess)*
   Universidad Nacional de Rosario, 2024. [→ Dataset](https://doi.org/10.57715/UNR/BL85Z8){target="_blank"}
 
+*All EPH-related materials — research, documentation, datasets, and reports — are collected in the [EPH Ecosystem](eph.qmd) page.*
+
 ---
 
 ## Publications

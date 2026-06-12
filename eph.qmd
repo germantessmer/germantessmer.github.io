@@ -1,0 +1,51 @@
+---
+title: "EPH Ecosystem — Germán A. Tessmer"
+description: "A decade of work with Argentina's Permanent Household Survey (EPH): research on survey redesigns, methodological documentation, open datasets, and applied reports."
+---
+
+Since 2015 I have worked continuously with Argentina's *Encuesta Permanente de Hogares* (EPH), the country's main household survey. What began as applied reports at the Observatorio Económico Social UNR evolved into a full open-data infrastructure — a harmonized dataset, reference documentation, and a research agenda on survey redesigns. Materials are ordered by hierarchy and recency: the most recent work supersedes the earliest reports, which are kept as part of the record.
+
+## Research
+
+- **From Breaks to Bridges: An Architecture for Survey Redesigns That Expand Conceptual Scope** *(with Bárbara Boggiano)* [→ SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6597399){target="_blank"}
+
+---
+
+## Data & Documentation
+
+- **EPH – Observatorio. Encuesta Permanente de Hogares de Argentina. Explicada, etiquetada y ampliada** *(with Santiago Moleres & Laureano E. Hess)*
+  Universidad Nacional de Rosario, 2024. [→ Dataset](https://doi.org/10.57715/UNR/BL85Z8){target="_blank"}
+
+- **Manual Metodológico EPH – Observatorio**
+  Observatorio Económico Social UNR, 2026. Methodological companion to the dataset: documents the Q4-2024 questionnaire redesign, constructed variables, and the methodological breaks relevant for longitudinal analysis. [→ Repository](https://hdl.handle.net/2133/33253){target="_blank"}
+
+- **Diccionario EPH – Observatorio**
+  Observatorio Económico Social UNR, 2026. Reference documentation for the processed EPH databases. [→ Repository](https://hdl.handle.net/2133/33195){target="_blank"}
+
+- **Manual EPH – Observatorio** *(with Luciano Jara Musuruana & Patricio Almeida Gentile)*
+  Observatorio Económico Social UNR, 2020. First-generation manual for the EPH databases compiled and extended by the Observatorio, superseded by the 2026 documentation. [→ Repository](http://hdl.handle.net/2133/17757){target="_blank"}
+
+---
+
+## Publications
+
+- **Cruzar la meta y seguir corriendo. La Universidad Nacional de Rosario y la empleabilidad de sus graduados en el Gran Rosario** *(with Ana Inés Navarro, Vanesa D'Elia, et al.)*
+  Xanto Editora, 2018. ISBN: 978-987-42-9366-4. [→ Repository](http://hdl.handle.net/2133/14532){target="_blank"}
+
+---
+
+## Applied Reports
+
+Early EPH-based reports produced at the Observatorio Económico Social UNR. They mark the starting point of this line of work; data treatment and methods improved substantially in the later documentation above.
+
+- **Pre-Covid: Indicadores socio-económicos para AGR y Argentina** *(with Luciano Jara Musuruana, Diego Marfetán Molina, Lucia Papa & Patricio Almeida Gentile)*
+  Observatorio Económico Social UNR, 2020. [→ Repository](http://hdl.handle.net/2133/18367){target="_blank"}
+
+- **¿Cuánto gana mi vecino? Contrastes en Rosario** *(with Norberto Martín)*
+  Observatorio Económico Social UNR, 2017. [→ Repository](http://hdl.handle.net/2133/17515){target="_blank"}
+
+- **La Mujer en el Gran Rosario, hoy** *(with Norberto Martín)*
+  Observatorio Económico Social UNR, 2016. [→ Repository](http://hdl.handle.net/2133/17533){target="_blank"}
+
+- **Informe sobre Indicadores Sociales, IV Trimestre de 2014** *(with Norberto Martín)*
+  Observatorio Económico Social UNR, 2015. [→ Repository](http://hdl.handle.net/2133/17508){target="_blank"}

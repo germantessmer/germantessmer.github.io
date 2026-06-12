@@ -13,6 +13,8 @@ website:
     left:
       - text: "Research"
         href: research.qmd
+      - text: "EPH Ecosystem"
+        href: eph.qmd
       - text: "Teaching"
         href: teaching.qmd
       - text: "CV"

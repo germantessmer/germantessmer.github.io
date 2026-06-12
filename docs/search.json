@@ -35,13 +35,6 @@
     "text": "Germán A. Tessmer\nI am an economist at Universidad Nacional de Rosario (UNR), where I direct the Observatorio Económico Social and teach Econometrics. My work is grounded in labor economics — informality, wage premia, and employment dynamics in Argentina — and carried out with the methods that now define rigorous applied research: causal inference, machine learning for variable selection, and AI-assisted empirical workflows.\nC.V.  ·  Research\nemail: ger.tessmer@gmail.com  ·  german.tessmer@unr.edu.ar"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV — Germán A. Tessmer",
@@ -98,6 +91,48 @@
     "text": "Technical Skills\nData analysis: R · Python · SQL · Power BI\nEmpirical methods: LASSO / post-LASSO · causal inference · Heckman selection models · reproducible pipelines\nTools: Git · R Markdown / Quarto · AI-assisted empirical workflows\nCertifications: CAE Cambridge (2025) · Data Analyst with R (DataCamp, 2024) · R Programming Track (DataCamp, 2017) · Intermediate SQL · PostgreSQL Window Functions · Introduction to Python (DataCamp, 2022–2024)\n\nFull CV available upon request."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "eph.html",
+    "href": "eph.html",
+    "title": "EPH Ecosystem — Germán A. Tessmer",
+    "section": "",
+    "text": "Since 2015 I have worked continuously with Argentina’s Encuesta Permanente de Hogares (EPH), the country’s main household survey. What began as applied reports at the Observatorio Económico Social UNR evolved into a full open-data infrastructure — a harmonized dataset, reference documentation, and a research agenda on survey redesigns. Materials are ordered by hierarchy and recency: the most recent work supersedes the earliest reports, which are kept as part of the record."
+  },
+  {
+    "objectID": "eph.html#research",
+    "href": "eph.html#research",
+    "title": "EPH Ecosystem — Germán A. Tessmer",
+    "section": "Research",
+    "text": "Research\n\nFrom Breaks to Bridges: An Architecture for Survey Redesigns That Expand Conceptual Scope (with Bárbara Boggiano) → SSRN"
+  },
+  {
+    "objectID": "eph.html#data-documentation",
+    "href": "eph.html#data-documentation",
+    "title": "EPH Ecosystem — Germán A. Tessmer",
+    "section": "Data & Documentation",
+    "text": "Data & Documentation\n\nEPH – Observatorio. Encuesta Permanente de Hogares de Argentina. Explicada, etiquetada y ampliada (with Santiago Moleres & Laureano E. Hess) Universidad Nacional de Rosario, 2024. → Dataset\nManual Metodológico EPH – Observatorio Observatorio Económico Social UNR, 2026. Methodological companion to the dataset: documents the Q4-2024 questionnaire redesign, constructed variables, and the methodological breaks relevant for longitudinal analysis. → Repository\nDiccionario EPH – Observatorio Observatorio Económico Social UNR, 2026. Reference documentation for the processed EPH databases. → Repository\nManual EPH – Observatorio (with Luciano Jara Musuruana & Patricio Almeida Gentile) Observatorio Económico Social UNR, 2020. First-generation manual for the EPH databases compiled and extended by the Observatorio, superseded by the 2026 documentation. → Repository"
+  },
+  {
+    "objectID": "eph.html#publications",
+    "href": "eph.html#publications",
+    "title": "EPH Ecosystem — Germán A. Tessmer",
+    "section": "Publications",
+    "text": "Publications\n\nCruzar la meta y seguir corriendo. La Universidad Nacional de Rosario y la empleabilidad de sus graduados en el Gran Rosario (with Ana Inés Navarro, Vanesa D’Elia, et al.) Xanto Editora, 2018. ISBN: 978-987-42-9366-4. → Repository"
+  },
+  {
+    "objectID": "eph.html#applied-reports",
+    "href": "eph.html#applied-reports",
+    "title": "EPH Ecosystem — Germán A. Tessmer",
+    "section": "Applied Reports",
+    "text": "Applied Reports\nEarly EPH-based reports produced at the Observatorio Económico Social UNR. They mark the starting point of this line of work; data treatment and methods improved substantially in the later documentation above.\n\nPre-Covid: Indicadores socio-económicos para AGR y Argentina (with Luciano Jara Musuruana, Diego Marfetán Molina, Lucia Papa & Patricio Almeida Gentile) Observatorio Económico Social UNR, 2020. → Repository\n¿Cuánto gana mi vecino? Contrastes en Rosario (with Norberto Martín) Observatorio Económico Social UNR, 2017. → Repository\nLa Mujer en el Gran Rosario, hoy (with Norberto Martín) Observatorio Económico Social UNR, 2016. → Repository\nInforme sobre Indicadores Sociales, IV Trimestre de 2014 (with Norberto Martín) Observatorio Económico Social UNR, 2015. → Repository"
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research — Germán A. Tessmer",
@@ -116,7 +151,7 @@
     "href": "research.html#data",
     "title": "Research — Germán A. Tessmer",
     "section": "Data",
-    "text": "Data\n\nEPH – Observatorio. Encuesta Permanente de Hogares de Argentina. Explicada, etiquetada y ampliada (with Santiago Moleres & Laureano E. Hess) Universidad Nacional de Rosario, 2024. → Dataset"
+    "text": "Data\n\nEPH – Observatorio. Encuesta Permanente de Hogares de Argentina. Explicada, etiquetada y ampliada (with Santiago Moleres & Laureano E. Hess) Universidad Nacional de Rosario, 2024. → Dataset\n\nAll EPH-related materials — research, documentation, datasets, and reports — are collected in the EPH Ecosystem page."
   },
   {
     "objectID": "research.html#publications",
