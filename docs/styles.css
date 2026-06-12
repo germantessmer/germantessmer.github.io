@@ -33,6 +33,25 @@ strong {
   color: #5B6274;
 }
 
+/* ── Destacado EPH Ecosystem en navbar ──────────────── */
+.navbar .nav-link[href$="eph.html"] {
+  background-color: #063F5D;
+  color: #F2F2EF !important;
+  border-radius: 5px;
+  padding: 0.35rem 0.85rem !important;
+  margin-left: 0.5rem;
+}
+
+.navbar .nav-link[href$="eph.html"]:hover,
+.navbar .nav-link[href$="eph.html"].active {
+  background-color: #193644;
+  color: #FFFFFF !important;
+}
+
+.navbar .nav-link[href$="eph.html"] .menu-text {
+  color: inherit;
+}
+
 /* ── Botón de descarga CV ───────────────────────────── */
 .btn-outline-primary {
   margin-bottom: 1.5rem;

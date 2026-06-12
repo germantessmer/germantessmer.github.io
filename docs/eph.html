@@ -114,16 +114,16 @@ gtag('config', 'G-5VY12JPMM3', { 'anonymize_ip': true});
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./eph.html" aria-current="page"> 
-<span class="menu-text">EPH Ecosystem</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./cv.html"> 
 <span class="menu-text">CV</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./eph.html" aria-current="page"> 
+<span class="menu-text">EPH Ecosystem</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -168,14 +168,14 @@ gtag('config', 'G-5VY12JPMM3', { 'anonymize_ip': true});
 <section id="research" class="level2">
 <h2 class="anchored" data-anchor-id="research">Research</h2>
 <ul>
-<li><strong>From Breaks to Bridges: An Architecture for Survey Redesigns That Expand Conceptual Scope</strong> <em>(with Bárbara Boggiano)</em> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6597399" target="_blank">→ SSRN</a></li>
+<li><strong>From Breaks to Bridges: An Architecture for Survey Redesigns That Expand Conceptual Scope</strong> <em>(with Bárbara Boggiano)</em> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6597399" target="_blank">→ SSRN</a> <a href="scripts/bridge_eph.R" download="bridge_eph.R">→ bridge_eph.R</a> <em>Companion script: rebuilds the aggregate variables removed from the raw INDEC user databases by the Q4-2024 redesign, applying the paper’s deterministic bridge rules (base R only).</em></li>
 </ul>
 <hr>
 </section>
 <section id="data-documentation" class="level2">
 <h2 class="anchored" data-anchor-id="data-documentation">Data &amp; Documentation</h2>
 <ul>
-<li><p><strong>EPH – Observatorio. Encuesta Permanente de Hogares de Argentina. Explicada, etiquetada y ampliada</strong> <em>(with Santiago Moleres &amp; Laureano E. Hess)</em> Universidad Nacional de Rosario, 2024. <a href="https://doi.org/10.57715/UNR/BL85Z8" target="_blank">→ Dataset</a></p></li>
+<li><p><strong>EPH – Observatorio. Encuesta Permanente de Hogares de Argentina. Explicada, etiquetada y ampliada</strong> <em>(with Santiago Moleres &amp; Laureano E. Hess)</em> Universidad Nacional de Rosario, 2024. <a href="https://doi.org/10.57715/UNR/BL85Z8" target="_blank">→ Dataset</a> <a href="scripts/separa_eph.R" download="separa_eph.R">→ separa_eph.R</a> <em>Companion script: splits each person-level dataset back into its household and individual bases, preserving types, factors, and labels (base R only).</em></p></li>
 <li><p><strong>Manual Metodológico EPH – Observatorio</strong> Observatorio Económico Social UNR, 2026. Methodological companion to the dataset: documents the Q4-2024 questionnaire redesign, constructed variables, and the methodological breaks relevant for longitudinal analysis. <a href="https://hdl.handle.net/2133/33253" target="_blank">→ Repository</a></p></li>
 <li><p><strong>Diccionario EPH – Observatorio</strong> Observatorio Económico Social UNR, 2026. Reference documentation for the processed EPH databases. <a href="https://hdl.handle.net/2133/33195" target="_blank">→ Repository</a></p></li>
 <li><p><strong>Manual EPH – Observatorio</strong> <em>(with Luciano Jara Musuruana &amp; Patricio Almeida Gentile)</em> Observatorio Económico Social UNR, 2020. First-generation manual for the EPH databases compiled and extended by the Observatorio, superseded by the 2026 documentation. <a href="http://hdl.handle.net/2133/17757" target="_blank">→ Repository</a></p></li>

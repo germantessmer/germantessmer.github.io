@@ -7,14 +7,16 @@ Since 2015 I have worked continuously with Argentina's *Encuesta Permanente de H
 
 ## Research
 
-- **From Breaks to Bridges: An Architecture for Survey Redesigns That Expand Conceptual Scope** *(with Bárbara Boggiano)* [→ SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6597399){target="_blank"}
+- **From Breaks to Bridges: An Architecture for Survey Redesigns That Expand Conceptual Scope** *(with Bárbara Boggiano)* [→ SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6597399){target="_blank"} [→ bridge_eph.R](scripts/bridge_eph.R){download="bridge_eph.R"}
+  *Companion script: rebuilds the aggregate variables removed from the raw INDEC user databases by the Q4-2024 redesign, applying the paper's deterministic bridge rules (base R only).*
 
 ---
 
 ## Data & Documentation
 
 - **EPH – Observatorio. Encuesta Permanente de Hogares de Argentina. Explicada, etiquetada y ampliada** *(with Santiago Moleres & Laureano E. Hess)*
-  Universidad Nacional de Rosario, 2024. [→ Dataset](https://doi.org/10.57715/UNR/BL85Z8){target="_blank"}
+  Universidad Nacional de Rosario, 2024. [→ Dataset](https://doi.org/10.57715/UNR/BL85Z8){target="_blank"} [→ separa_eph.R](scripts/separa_eph.R){download="separa_eph.R"}
+  *Companion script: splits each person-level dataset back into its household and individual bases, preserving types, factors, and labels (base R only).*
 
 - **Manual Metodológico EPH – Observatorio**
   Observatorio Económico Social UNR, 2026. Methodological companion to the dataset: documents the Q4-2024 questionnaire redesign, constructed variables, and the methodological breaks relevant for longitudinal analysis. [→ Repository](https://hdl.handle.net/2133/33253){target="_blank"}

@@ -5,14 +5,14 @@ description: "Working papers, publications, and datasets by Germán A. Tessmer. 
 
 ## Working Papers
 
-- **From Breaks to Bridges: An Architecture for Survey Redesigns That Expand Conceptual Scope** *(with Bárbara Boggiano)* [→ SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6597399){target="_blank"}
+- **From Breaks to Bridges: An Architecture for Survey Redesigns That Expand Conceptual Scope** *(with Bárbara Boggiano)* [→ SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6597399){target="_blank"} [→ bridge_eph.R](scripts/bridge_eph.R){download="bridge_eph.R"}
 
 ---
 
 ## Data
 
 - **EPH – Observatorio. Encuesta Permanente de Hogares de Argentina. Explicada, etiquetada y ampliada** *(with Santiago Moleres & Laureano E. Hess)*
-  Universidad Nacional de Rosario, 2024. [→ Dataset](https://doi.org/10.57715/UNR/BL85Z8){target="_blank"}
+  Universidad Nacional de Rosario, 2024. [→ Dataset](https://doi.org/10.57715/UNR/BL85Z8){target="_blank"} [→ separa_eph.R](scripts/separa_eph.R){download="separa_eph.R"}
 
 *All EPH-related materials — research, documentation, datasets, and reports — are collected in the [EPH Ecosystem](eph.qmd) page.*
 

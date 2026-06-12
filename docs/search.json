@@ -109,14 +109,14 @@
     "href": "eph.html#research",
     "title": "EPH Ecosystem — Germán A. Tessmer",
     "section": "Research",
-    "text": "Research\n\nFrom Breaks to Bridges: An Architecture for Survey Redesigns That Expand Conceptual Scope (with Bárbara Boggiano) → SSRN"
+    "text": "Research\n\nFrom Breaks to Bridges: An Architecture for Survey Redesigns That Expand Conceptual Scope (with Bárbara Boggiano) → SSRN → bridge_eph.R Companion script: rebuilds the aggregate variables removed from the raw INDEC user databases by the Q4-2024 redesign, applying the paper’s deterministic bridge rules (base R only)."
   },
   {
     "objectID": "eph.html#data-documentation",
     "href": "eph.html#data-documentation",
     "title": "EPH Ecosystem — Germán A. Tessmer",
     "section": "Data & Documentation",
-    "text": "Data & Documentation\n\nEPH – Observatorio. Encuesta Permanente de Hogares de Argentina. Explicada, etiquetada y ampliada (with Santiago Moleres & Laureano E. Hess) Universidad Nacional de Rosario, 2024. → Dataset\nManual Metodológico EPH – Observatorio Observatorio Económico Social UNR, 2026. Methodological companion to the dataset: documents the Q4-2024 questionnaire redesign, constructed variables, and the methodological breaks relevant for longitudinal analysis. → Repository\nDiccionario EPH – Observatorio Observatorio Económico Social UNR, 2026. Reference documentation for the processed EPH databases. → Repository\nManual EPH – Observatorio (with Luciano Jara Musuruana & Patricio Almeida Gentile) Observatorio Económico Social UNR, 2020. First-generation manual for the EPH databases compiled and extended by the Observatorio, superseded by the 2026 documentation. → Repository"
+    "text": "Data & Documentation\n\nEPH – Observatorio. Encuesta Permanente de Hogares de Argentina. Explicada, etiquetada y ampliada (with Santiago Moleres & Laureano E. Hess) Universidad Nacional de Rosario, 2024. → Dataset → separa_eph.R Companion script: splits each person-level dataset back into its household and individual bases, preserving types, factors, and labels (base R only).\nManual Metodológico EPH – Observatorio Observatorio Económico Social UNR, 2026. Methodological companion to the dataset: documents the Q4-2024 questionnaire redesign, constructed variables, and the methodological breaks relevant for longitudinal analysis. → Repository\nDiccionario EPH – Observatorio Observatorio Económico Social UNR, 2026. Reference documentation for the processed EPH databases. → Repository\nManual EPH – Observatorio (with Luciano Jara Musuruana & Patricio Almeida Gentile) Observatorio Económico Social UNR, 2020. First-generation manual for the EPH databases compiled and extended by the Observatorio, superseded by the 2026 documentation. → Repository"
   },
   {
     "objectID": "eph.html#publications",
@@ -137,21 +137,21 @@
     "href": "research.html",
     "title": "Research — Germán A. Tessmer",
     "section": "",
-    "text": "From Breaks to Bridges: An Architecture for Survey Redesigns That Expand Conceptual Scope (with Bárbara Boggiano) → SSRN"
+    "text": "From Breaks to Bridges: An Architecture for Survey Redesigns That Expand Conceptual Scope (with Bárbara Boggiano) → SSRN → bridge_eph.R"
   },
   {
     "objectID": "research.html#working-papers",
     "href": "research.html#working-papers",
     "title": "Research — Germán A. Tessmer",
     "section": "",
-    "text": "From Breaks to Bridges: An Architecture for Survey Redesigns That Expand Conceptual Scope (with Bárbara Boggiano) → SSRN"
+    "text": "From Breaks to Bridges: An Architecture for Survey Redesigns That Expand Conceptual Scope (with Bárbara Boggiano) → SSRN → bridge_eph.R"
   },
   {
     "objectID": "research.html#data",
     "href": "research.html#data",
     "title": "Research — Germán A. Tessmer",
     "section": "Data",
-    "text": "Data\n\nEPH – Observatorio. Encuesta Permanente de Hogares de Argentina. Explicada, etiquetada y ampliada (with Santiago Moleres & Laureano E. Hess) Universidad Nacional de Rosario, 2024. → Dataset\n\nAll EPH-related materials — research, documentation, datasets, and reports — are collected in the EPH Ecosystem page."
+    "text": "Data\n\nEPH – Observatorio. Encuesta Permanente de Hogares de Argentina. Explicada, etiquetada y ampliada (with Santiago Moleres & Laureano E. Hess) Universidad Nacional de Rosario, 2024. → Dataset → separa_eph.R\n\nAll EPH-related materials — research, documentation, datasets, and reports — are collected in the EPH Ecosystem page."
   },
   {
     "objectID": "research.html#publications",
