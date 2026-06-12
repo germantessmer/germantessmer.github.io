@@ -35,7 +35,7 @@ strong {
 
 /* ── Destacado EPH Ecosystem en navbar ──────────────── */
 .navbar .nav-link[href$="eph.html"] {
-  background-color: #063F5D;
+  background-color: #5B6274;
   color: #F2F2EF !important;
   border-radius: 5px;
   padding: 0.35rem 0.85rem !important;
@@ -44,7 +44,7 @@ strong {
 
 .navbar .nav-link[href$="eph.html"]:hover,
 .navbar .nav-link[href$="eph.html"].active {
-  background-color: #193644;
+  background-color: #4B5160;
   color: #FFFFFF !important;
 }
 

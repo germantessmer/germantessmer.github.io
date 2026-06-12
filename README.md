@@ -32,7 +32,7 @@ Logo palette: dark blue `#063F5D` · steel gray `#5C7381` · background gray `#F
 
 Text hierarchy in `styles.css` (no pure black): headings `#193644` · bold text `#5B6274` · body `#2c2c2c`.
 
-The **EPH Ecosystem** navbar item sits last (right of CV) and is highlighted with inverted colors (dark blue background `#063F5D`, light text `#F2F2EF`) via `styles.css`.
+The **EPH Ecosystem** navbar item sits last (right of CV) and is highlighted with inverted colors (gray-blue background `#5B6274`, light text `#F2F2EF`) via `styles.css`.
 
 ## SEO & Analytics
 
