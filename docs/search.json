@@ -109,7 +109,7 @@
     "href": "eph.html#research",
     "title": "EPH Ecosystem — Germán A. Tessmer",
     "section": "Research",
-    "text": "Research\n\nFrom Breaks to Bridges: An Architecture for Survey Redesigns That Expand Conceptual Scope (with Bárbara Boggiano) → SSRN → bridge_eph.R Companion script: rebuilds the aggregate variables removed from the raw INDEC user databases by the Q4-2024 redesign, applying the paper’s deterministic bridge rules (base R only)."
+    "text": "Research\n\nFrom Breaks to Bridges: An Architecture for Survey Redesigns That Expand Conceptual Scope (with Bárbara Boggiano) → SSRN → bridge_eph.R Companion script: rebuilds the aggregate variables removed from the raw INDEC user databases by the Q4-2024 redesign, applying the paper’s deterministic bridge rules (base R only).\nEvolución del premio laboral en Argentina: variaciones para un período corto con información confiable, I trimestre 2017 a II trimestre 2018 MA thesis, Maestría en Economía, Universidad de San Andrés, 2019 (advisor: Walter Sosa Escudero). Wage premia by educational attainment estimated with Mincer equations and Heckman selection models on EPH microdata. → Repository"
   },
   {
     "objectID": "eph.html#data-documentation",

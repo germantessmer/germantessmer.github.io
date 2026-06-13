@@ -10,6 +10,9 @@ Since 2015 I have worked continuously with Argentina's *Encuesta Permanente de H
 - **From Breaks to Bridges: An Architecture for Survey Redesigns That Expand Conceptual Scope** *(with Bárbara Boggiano)* [→ SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6597399){target="_blank"} [→ bridge_eph.R](scripts/bridge_eph.R){download="bridge_eph.R"}
   *Companion script: rebuilds the aggregate variables removed from the raw INDEC user databases by the Q4-2024 redesign, applying the paper's deterministic bridge rules (base R only).*
 
+- **Evolución del premio laboral en Argentina: variaciones para un período corto con información confiable, I trimestre 2017 a II trimestre 2018**
+  MA thesis, Maestría en Economía, Universidad de San Andrés, 2019 *(advisor: Walter Sosa Escudero)*. Wage premia by educational attainment estimated with Mincer equations and Heckman selection models on EPH microdata. [→ Repository](https://repositorio.udesa.edu.ar/items/a590dfb4-88ab-416c-91ab-bd855f68aa5d){target="_blank"}
+
 ---
 
 ## Data & Documentation
