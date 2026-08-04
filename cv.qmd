@@ -56,6 +56,7 @@ description: "Curriculum Vitae of Germán A. Tessmer. Economist, Director of Obs
 
 ### Data
 
+- Tessmer, G.; Boggiano, B. (2026). *Series de datos estimadas de formalidad laboral más allá del empleo asalariado en Argentina a partir de la Encuesta Permanente de Hogares (EPH), 2016-T4–2025-T4*. Universidad Nacional de Rosario. [doi:10.57715/UNR/L9HKDW](https://doi.org/10.57715/UNR/L9HKDW){target="_blank"}
 - Tessmer, G.; Moleres, S.; Hess, L. E. (2024). *EPH – Observatorio. Encuesta Permanente de Hogares de Argentina. Explicada, etiquetada y ampliada*. Universidad Nacional de Rosario. [doi:10.57715/UNR/BL85Z8](https://doi.org/10.57715/UNR/BL85Z8){target="_blank"}
 
 ### Book

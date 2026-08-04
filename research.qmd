@@ -11,6 +11,9 @@ description: "Working papers, publications, and datasets by Germán A. Tessmer. 
 
 ## Data
 
+- **Series de datos estimadas de formalidad laboral más allá del empleo asalariado en Argentina a partir de la Encuesta Permanente de Hogares (EPH), 2016-T4 – 2025-T4** *(with Bárbara Boggiano)*
+  Universidad Nacional de Rosario, 2026. Quarterly formality and informality series for all employed workers under the expanded 17th ICLS concept, with the unobserved span estimated by post-LASSO backcasting. [→ Dataset](https://doi.org/10.57715/UNR/L9HKDW){target="_blank"}
+
 - **EPH – Observatorio. Encuesta Permanente de Hogares de Argentina. Explicada, etiquetada y ampliada** *(with Santiago Moleres & Laureano E. Hess)*
   Universidad Nacional de Rosario, 2024. [→ Dataset](https://doi.org/10.57715/UNR/BL85Z8){target="_blank"} [→ separa_eph.R](scripts/separa_eph.R){download="separa_eph.R"}
 
