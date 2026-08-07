@@ -45,7 +45,10 @@ Since 2015 I have worked continuously with Argentina's *Encuesta Permanente de H
 
 ## Applied Reports
 
-Early EPH-based reports produced at the Observatorio Económico Social UNR. They mark the starting point of this line of work; data treatment and methods improved substantially in the later documentation above.
+- **Formalidad laboral argentina. Una historia alternativa creíble**
+  Observatorio Económico Social UNR, 2026. Applied readout of the estimated series: formality and informality across the full universe of employed workers — wage earners, own-account workers, employers and family workers — over the 36 quarters from Q4-2016 to Q3-2025, spliced with the official INDEC measurement available since Q4-2024. The traditional pension-contribution measure reaches only wage earners and sits 7 to 12 percentage points above the estimated series, with 97.9% of that gap explained by the change in universe rather than by any real change in informality. Own-account informality nearly doubles the wage-earner rate and drives the aggregate level. Includes a chapter on the Gran Rosario agglomerate and a panel covering the 32 agglomerates surveyed by the EPH. [→ Repository](https://hdl.handle.net/2133/33518){target="_blank"}
+
+Earlier EPH-based reports produced at the Observatorio Económico Social UNR mark the starting point of this line of work; data treatment and methods improved substantially in the documentation and series above.
 
 - **Pre-Covid: Indicadores socio-económicos para AGR y Argentina** *(with Luciano Jara Musuruana, Diego Marfetán Molina, Lucia Papa & Patricio Almeida Gentile)*
   Observatorio Económico Social UNR, 2020. [→ Repository](http://hdl.handle.net/2133/18367){target="_blank"}
