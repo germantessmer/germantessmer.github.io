@@ -65,10 +65,11 @@ description: "Curriculum Vitae of Germán A. Tessmer. Economist, Director of Obs
 
 ### Reports & Outreach
 
-Director and co-author of over 60 research and outreach reports published between 2015 and 2024 through the Observatorio Económico Social UNR (ISSN 2683-9067). All reports available through the [UNR institutional repository](http://hdl.handle.net/2133/){target="_blank"}.
+Director and co-author of over 60 research and outreach reports published between 2015 and 2026 through the Observatorio Económico Social UNR (ISSN 2683-9067). All reports available through the [UNR institutional repository](http://hdl.handle.net/2133/){target="_blank"}.
 
 Selected reports:
 
+- **Formalidad laboral argentina. Una historia alternativa creíble** · 2026. [→ Repository](https://hdl.handle.net/2133/33518){target="_blank"}
 - **Nueva ley de alquileres: contexto general y situación de los estudiantes de UNR** *(with Diego Marfetán Molina, Luciano Jara Musuruana, et al.)* · 2021. [→ Repository](http://hdl.handle.net/2133/22647){target="_blank"}
 - **Pre-Covid: Indicadores socio-económicos para AGR y Argentina** *(with Luciano Jara Musuruana, Diego Marfetán Molina, et al.)* · 2020. [→ Repository](http://hdl.handle.net/2133/18367){target="_blank"}
 - **La educación en Santa Fe y Rosario: resultados Aprender 2016** *(with Patricio Almeida Gentile)* · 2017. [→ Repository](http://hdl.handle.net/2133/17542){target="_blank"}

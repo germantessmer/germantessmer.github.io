@@ -30,9 +30,12 @@ description: "Working papers, publications, and datasets by Germán A. Tessmer. 
 
 ## Reports & Outreach
 
-Director and co-author of over 60 research and outreach reports published between 2015 and 2024 through the [Observatorio Económico Social UNR](https://observatorio.unr.edu.ar){target="_blank"} (ISSN 2683-9067), covering labor markets, monetary policy, housing, energy, and regional economics. All reports are available through the [UNR institutional repository](http://hdl.handle.net/2133/){target="_blank"}.
+Director and co-author of over 60 research and outreach reports published between 2015 and 2026 through the [Observatorio Económico Social UNR](https://observatorio.unr.edu.ar){target="_blank"} (ISSN 2683-9067), covering labor markets, monetary policy, housing, energy, and regional economics. All reports are available through the [UNR institutional repository](http://hdl.handle.net/2133/){target="_blank"}.
 
 Selected reports:
+
+- **Formalidad laboral argentina. Una historia alternativa creíble**
+  Observatorio Económico Social UNR, 2026. Formality and informality across the full universe of employed workers, Q4-2016 to Q3-2025, based on the estimated series. [→ Repository](https://hdl.handle.net/2133/33518){target="_blank"}
 
 - **Nueva ley de alquileres: contexto general y situación de los estudiantes de UNR** *(with Diego Marfetán Molina, Luciano Jara Musuruana, Alfredo Bula, Lucia Papa & Patricio Almeida Gentile)*
   Observatorio Económico Social UNR, 2021. [→ Repository](http://hdl.handle.net/2133/22647){target="_blank"}
