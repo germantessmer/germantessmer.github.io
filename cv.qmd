@@ -59,6 +59,10 @@ description: "Curriculum Vitae of Germán A. Tessmer. Economist, Director of Obs
 - Tessmer, G.; Boggiano, B. (2026). *Series de datos estimadas de formalidad laboral más allá del empleo asalariado en Argentina a partir de la Encuesta Permanente de Hogares (EPH), 2016-T4–2025-T4*. Universidad Nacional de Rosario. [doi:10.57715/UNR/L9HKDW](https://doi.org/10.57715/UNR/L9HKDW){target="_blank"}
 - Tessmer, G.; Moleres, S.; Hess, L. E. (2024). *EPH – Observatorio. Encuesta Permanente de Hogares de Argentina. Explicada, etiquetada y ampliada*. Universidad Nacional de Rosario. [doi:10.57715/UNR/BL85Z8](https://doi.org/10.57715/UNR/BL85Z8){target="_blank"}
 
+### Software
+
+- Tessmer, G.; Boggiano, B. (2026). *comparability_bridge() / puente_comparabilidad()* — EPH comparability bridge for the 2024 redesign. Contributed to and merged into `pyeph` (Instituto Humai), released in v1.7.0. [→ Docs](https://pyeph.readthedocs.io/es/latest/comparability.html){target="_blank"} [→ Release](https://github.com/institutohumai/pyeph/releases/tag/v1.7.0){target="_blank"}
+
 ### Book
 
 - Navarro, A. I.; Tessmer, G.; D'Elia, V.; et al. (2018). *Cruzar la meta y seguir corriendo. La Universidad Nacional de Rosario y la empleabilidad de sus graduados en el Gran Rosario*. Xanto Editora. ISBN: 978-987-42-9366-4. [→ Repository](http://hdl.handle.net/2133/14532){target="_blank"}

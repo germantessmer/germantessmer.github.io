@@ -11,3 +11,7 @@
 Thumbs.db
 
 /.quarto/
+
+# Notas de trabajo en la raiz: no son parte del sitio ni del repo
+PENDIENTE-*
+PROMPT-*

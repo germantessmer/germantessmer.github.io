@@ -21,6 +21,13 @@ description: "Working papers, publications, and datasets by Germán A. Tessmer. 
 
 ---
 
+## Software
+
+- **`comparability_bridge()` / `puente_comparabilidad()` — EPH comparability bridge (2024 redesign)** *(with Bárbara Boggiano)*
+  Contributed to and merged into pyeph, the Python library for Argentina's EPH (Instituto Humai), released in v1.7.0, 2026. Rebuilds the aggregate variables removed from the INDEC user databases by the Q4-2024 questionnaire redesign and corrects the PP11L1/PP11L2 inversion — the same rules as `bridge_eph.R`, ported to Python. The package documentation cites the working paper and the EPH – Observatorio dataset. [→ Docs](https://pyeph.readthedocs.io/es/latest/comparability.html){target="_blank"} [→ Release](https://github.com/institutohumai/pyeph/releases/tag/v1.7.0){target="_blank"} [→ PyPI](https://pypi.org/project/pyeph/){target="_blank"}
+
+---
+
 ## Publications
 
 - **Cruzar la meta y seguir corriendo. La Universidad Nacional de Rosario y la empleabilidad de sus graduados en el Gran Rosario** *(with Ana Inés Navarro, Vanesa D'Elia, et al.)*
