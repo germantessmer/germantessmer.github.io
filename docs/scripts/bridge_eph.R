@@ -36,9 +36,8 @@
 #   Dataverse:  https://doi.org/10.57715/UNR/BL85Z8
 #
 # Referencia académica de las reglas de reconstrucción:
-#   Tessmer, G. & Boggiano, B. (2026) "From Breaks to Bridges: Harmonizing the
-#   New and Old Permanent Household Survey for Consistent Labor Market Series"
-#   (SSRN 6597399).
+#   Tessmer, G. & Boggiano, B. (2026) "From Breaks to Bridges: An Architecture
+#   for Survey Redesigns That Expand Conceptual Scope" (SSRN 6597399).
 #
 # PARA QUIEN ES
 # -------------
