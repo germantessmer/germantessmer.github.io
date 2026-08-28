@@ -38,16 +38,8 @@ Since 2015 I have worked continuously with Argentina's *Encuesta Permanente de H
 
 ## Software
 
-The deterministic bridge rules documented in *From Breaks to Bridges* are being made available across the three environments in which EPH microdata are usually processed.
-
 - **Python — `comparability_bridge()` / `puente_comparabilidad()`** *(with Bárbara Boggiano)*
   Contributed to and merged into pyeph, the Python library for Argentina's EPH (Instituto Humai), released in v1.7.0, 2026. The package documentation cites the working paper and the EPH – Observatorio dataset. [→ Docs](https://pyeph.readthedocs.io/es/latest/comparability.html){target="_blank"} [→ Release](https://github.com/institutohumai/pyeph/releases/tag/v1.7.0){target="_blank"} [→ PyPI](https://pypi.org/project/pyeph/){target="_blank"}
-
-- **R — `bridge_eph.R`**
-  Standalone script, base R only, published on this site as the companion to the working paper. A proposal to integrate the same rules into the rOpenSci `eph` package is open with its maintainers. [→ bridge_eph.R](scripts/bridge_eph.R){download="bridge_eph.R"} [→ Proposal](https://github.com/ropensci/eph/issues/70){target="_blank"}
-
-- **Stata — `ephbridge`**
-  Module implementing the same rules, checked for equivalence against the R reference implementation. In preparation for submission to SSC.
 
 ---
 
