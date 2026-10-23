@@ -15,3 +15,6 @@ Thumbs.db
 # Notas de trabajo en la raiz: no son parte del sitio ni del repo
 PENDIENTE-*
 PROMPT-*
+
+# Material de prensa con paginas de terceros (copyright): local, no se publica
+_press/

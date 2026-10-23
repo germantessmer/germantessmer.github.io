@@ -79,6 +79,10 @@ Selected reports:
 - **La educación en Santa Fe y Rosario: resultados Aprender 2016** *(with Patricio Almeida Gentile)* · 2017. [→ Repository](http://hdl.handle.net/2133/17542){target="_blank"}
 - **10 preguntas para entender las variaciones del tipo de cambio** · 2016. [→ Repository](http://hdl.handle.net/2133/14520){target="_blank"}
 
+### Media Coverage
+
+- *La Nación* (Argentina), "La informalidad laboral crece, es de 70% entre los cuentapropistas del conurbano, y muestra amplias brechas en el país," by Silvia Stang, October 11, 2026 — front page and p. 20. Quoted; covers the informality estimation model developed with Bárbara Boggiano. [→ Article](https://www.lanacion.com.ar/economia/la-informalidad-laboral-crece-es-de-70-entre-los-cuentapropistas-del-conurbano-y-muestra-amplias-nid11102026/){target="_blank"}
+
 ---
 
 ## Academic Evaluation

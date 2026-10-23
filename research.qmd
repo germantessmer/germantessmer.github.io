@@ -6,6 +6,7 @@ description: "Working papers, publications, and datasets by Germán A. Tessmer. 
 ## Working Papers
 
 - **From Breaks to Bridges: An Architecture for Survey Redesigns That Expand Conceptual Scope** *(with Bárbara Boggiano)* [→ SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6597399){target="_blank"} [→ bridge_eph.R](scripts/bridge_eph.R){download="bridge_eph.R"}
+  *Media coverage:* *La Nación* (Argentina), "La informalidad laboral crece, es de 70% entre los cuentapropistas del conurbano, y muestra amplias brechas en el país," October 11, 2026 — front page and p. 20 of the print edition. [→ La Nación](https://www.lanacion.com.ar/economia/la-informalidad-laboral-crece-es-de-70-entre-los-cuentapropistas-del-conurbano-y-muestra-amplias-nid11102026/){target="_blank"}
 
 ---
 
